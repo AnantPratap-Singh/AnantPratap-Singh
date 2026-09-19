@@ -61,7 +61,7 @@ database design, so that what I build is easy to understand, test and extend.
 </td>
 
 <td width="42%" align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://www.magnific.com/free-photos-vectors/coding-gif" width="320" alt="Coding"/>
 <br><br>
 <img src="https://img.shields.io/badge/STATUS-BUILDING-020617?style=for-the-badge&labelColor=020617&color=22c55e"/>
 </td>
