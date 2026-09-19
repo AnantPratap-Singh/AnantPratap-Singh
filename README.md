@@ -61,7 +61,7 @@ database design, so that what I build is easy to understand, test and extend.
 </td>
 
 <td width="42%" align="center">
-<img src="https://skillicons.dev/icons?i=grafana,prometheus,docker,kubernetes,redis&perline=5&theme=dark" width="320" alt="Coding"/>
+<img src="coding-intro.gif" width="320" alt="Coding"/>
 <br><br>
 <img src="https://img.shields.io/badge/STATUS-BUILDING-020617?style=for-the-badge&labelColor=020617&color=22c55e"/>
 </td>
