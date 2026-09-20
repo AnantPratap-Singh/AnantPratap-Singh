@@ -190,21 +190,21 @@ database design, so that what I build is easy to understand, test and extend.
 <table align="center" width="96%">
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/ETERNALGLORY5/Support-Assistant-Spring-AI">Support-Assistant-Spring-AI</a></h3>
+<h3><a href="https://github.com/AnantPratap-Singh/Support-Assistant-Spring-AI">Support-Assistant-Spring-AI</a></h3>
 <sub>AI support assistant built with Spring AI.</sub>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/ETERNALGLORY5/finance">finance</a></h3>
+<h3><a href="https://github.com/AnantPratap-Singh/finance">finance</a></h3>
 <sub>Spring Boot project to understand how the finance domain works.</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/ETERNALGLORY5/E-commerce">E-commerce</a></h3>
+<h3><a href="https://github.com/AnantPratap-Singh/E-commerce">E-commerce</a></h3>
 <sub>Java e-commerce application.</sub>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/ETERNALGLORY5/BookMyShow">BookMyShow</a></h3>
+<h3><a href="https://github.com/AnantPratap-Singh/BookMyShow">BookMyShow</a></h3>
 <sub>Java ticket-booking application.</sub>
 </td>
 </tr>
@@ -217,7 +217,7 @@ database design, so that what I build is easy to understand, test and extend.
 <h1 align="center">Contribution Activity</h1>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ETERNALGLORY5&theme=react-dark&hide_border=true&area=true" width="95%" alt="Activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnantPratap-Singh&theme=react-dark&hide_border=true&area=true" width="95%" alt="Activity graph"/>
 </p>
 
 <!-- ====================== PROFILE METRICS ====================== -->
@@ -225,13 +225,13 @@ database design, so that what I build is easy to understand, test and extend.
 <table align="center">
 <tr>
 <td align="center">
-<img src="https://komarev.com/ghpvc/?username=ETERNALGLORY5&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=AnantPratap-Singh&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile views"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/github/followers/ETERNALGLORY5?style=for-the-badge&label=FOLLOWERS&labelColor=020617&color=06b6d4" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/AnantPratap-Singh?style=for-the-badge&label=FOLLOWERS&labelColor=020617&color=06b6d4" alt="Followers"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/github/stars/ETERNALGLORY5?style=for-the-badge&label=STARS&labelColor=020617&color=f59e0b" alt="Stars"/>
+<img src="https://img.shields.io/github/stars/AnantPratap-Singh?style=for-the-badge&label=STARS&labelColor=020617&color=f59e0b" alt="Stars"/>
 </td>
 </tr>
 </table>
